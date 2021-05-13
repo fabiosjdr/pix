@@ -1,0 +1,2 @@
+converter certificado xxx.p12 para pem
+openssl pkcs12 -in xxx.p12 xxx.pem -nodes
