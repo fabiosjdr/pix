@@ -1,4 +1,4 @@
-# pix
+# PIX PHP
 
 Exemplo de Integração do Pix com o PSP do Banco de Brasil
 
